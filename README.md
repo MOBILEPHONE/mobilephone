@@ -28,6 +28,7 @@ I am currently accepting new **Full-time roles**, **Contractual projects**, and 
 - **[api-validator](https://github.com/SEOSiri-Official/api-validator):** VS Code extension for security governance, SEO schema evaluation, and API integrity.
 - **[qc-validator](https://github.com/SEOSiri-Official/qc-validator):** Next.js platform for compliant inspection reports and legally binding digital agreements.
 - **[seosiri-monitor](https://github.com/SEOSiri-Official/seosiri-monitor):** Analytics platform for backlink tracking, risk assessment, and site structure discovery.
+- **[cloudflare-security-txt](https://github.com/SEOSiri-Official/cloudflare-security-txt):** Deploy a fully RFC 9116-compliant, enterprise-grade vulnerability disclosure policy (security.txt) on your domain using Cloudflare Workers.
 #### 💼 Business & CRM Solutions
 - **[my-client-crm-base](https://github.com/SEOSiri-Official/my-client-crm-base):** High-performance, GDPR-compliant self-hosted CRM engine with memory-sync caching.
 - **[crm-license-registry](https://github.com/SEOSiri-Official/crm-license-registry):** Security layer for software license validation within the SEOSiri ecosystem.
